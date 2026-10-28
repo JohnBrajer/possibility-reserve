@@ -1,11 +1,25 @@
 cff-version: 1.2.0
-message: "If you reference this framework, cite this repository and John Brajer as creator."
-title: "Possibility Reserve"
-type: dataset
+message: "If you use or reference this work, please cite it as below."
+title: "Possibility Reserve by John Brajer"
+abstract: "Possibility Reserve by John Brajer: preserve, reactivate, and explore possibilities without premature permanent rejection."
+type: software
 authors:
-  - family-names: "Brajer"
-    given-names: "John"
-version: "0.1"
-date-released: "2026-09-25"
-url: "https://github.com/JohnBrajer/possibility-reserve"
+  - family-names: Brajer
+    given-names: John
+    orcid: "https://orcid.org/0009-0004-0113-1341"
+    affiliation: "Trillsverse LLC"
+    website: "https://trillsverse.com"
 repository-code: "https://github.com/JohnBrajer/possibility-reserve"
+url: "https://www.mymindmine.com"
+keywords:
+  - "Brajology"
+  - "John Brajer"
+  - "Trillsverse"
+  - "agent-architecture"
+  - "artificial-intelligence"
+  - "decision-making"
+  - "intelligence-injections"
+  - "john-brajer"
+  - "possibility-reserve"
+  - "search"
+  - "trillsverse"
