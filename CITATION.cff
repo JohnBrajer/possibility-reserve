@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "Possibility Reserve by John Brajer"
 abstract: "Possibility Reserve by John Brajer: preserve, reactivate, and explore possibilities without premature permanent rejection."
 type: software
+doi: "10.5281/zenodo.23718115"
 authors:
   - family-names: Brajer
     given-names: John
